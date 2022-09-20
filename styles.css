@@ -277,3 +277,39 @@ hr {
   margin-left: 0rem;
   color: #bababa;
 }
+
+.project-section-three {
+  padding: 2rem;
+  text-align: left;
+  margin-left: 20rem;
+  padding-top: 1.5rem;
+  padding-bottom: 4rem;
+}
+.project-section-three h1 {
+  font-weight: 500;
+}
+.project-section-three p {
+  margin-left: 0.7rem;
+  margin-bottom: 1.5rem;
+}
+.project-section-three .run-project-three {
+  padding: 0.5rem 1rem;
+  margin-left: 28rem;
+  border-radius: 0.8rem;
+  background-color: var(--primary-color);
+  color: white;
+  text-decoration: none;
+}
+.project-section-three .view-project-three {
+  padding: 0.5rem 1rem;
+  margin-left: 3rem;
+  border-radius: 0.8rem;
+  background-color: var(--off-white-color);
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+  text-decoration: none;
+}
+.project-section-three small {
+  margin-left: 0rem;
+  color: #bababa;
+}
