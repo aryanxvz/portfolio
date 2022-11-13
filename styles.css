@@ -206,21 +206,21 @@ hr {
 
 /* project tab */
 
-.project-section-one {
+.project-section {
   padding: 2rem;
   text-align: left;
   margin-left: 20rem;
   padding-top: 1.5rem;
   padding-bottom: 4rem;
 }
-.project-section-one h1 {
+.project-section h1 {
   font-weight: 500;
 }
-.project-section-one p {
+.project-section p {
   margin-left: 0.7rem;
   margin-bottom: 1.5rem;
 }
-.project-section-one .run-project-one {
+.project-section .run-project {
   padding: 0.5rem 1rem;
   margin-left: 28rem;
   border-radius: 0.8rem;
@@ -228,7 +228,7 @@ hr {
   color: white;
   text-decoration: none;
 }
-.project-section-one .view-project-one {
+.project-section .view-project {
   padding: 0.5rem 1rem;
   margin-left: 3rem;
   border-radius: 0.8rem;
@@ -237,79 +237,7 @@ hr {
   color: var(--primary-color);
   text-decoration: none;
 }
-.project-section-one small {
-  margin-left: 0rem;
-  color: #bababa;
-}
-
-.project-section-two {
-  padding: 2rem;
-  text-align: left;
-  margin-left: 20rem;
-  padding-top: 1.5rem;
-  padding-bottom: 4rem;
-}
-.project-section-two h1 {
-  font-weight: 500;
-}
-.project-section-two p {
-  margin-left: 0.7rem;
-  margin-bottom: 1.5rem;
-}
-.project-section-two .run-project-two {
-  padding: 0.5rem 1rem;
-  margin-left: 28rem;
-  border-radius: 0.8rem;
-  background-color: var(--primary-color);
-  color: white;
-  text-decoration: none;
-}
-.project-section-two .view-project-two {
-  padding: 0.5rem 1rem;
-  margin-left: 3rem;
-  border-radius: 0.8rem;
-  background-color: var(--off-white-color);
-  border: 1px solid var(--primary-color);
-  color: var(--primary-color);
-  text-decoration: none;
-}
-.project-section-two small {
-  margin-left: 0rem;
-  color: #bababa;
-}
-
-.project-section-three {
-  padding: 2rem;
-  text-align: left;
-  margin-left: 20rem;
-  padding-top: 1.5rem;
-  padding-bottom: 4rem;
-}
-.project-section-three h1 {
-  font-weight: 500;
-}
-.project-section-three p {
-  margin-left: 0.7rem;
-  margin-bottom: 1.5rem;
-}
-.project-section-three .run-project-three {
-  padding: 0.5rem 1rem;
-  margin-left: 28rem;
-  border-radius: 0.8rem;
-  background-color: var(--primary-color);
-  color: white;
-  text-decoration: none;
-}
-.project-section-three .view-project-three {
-  padding: 0.5rem 1rem;
-  margin-left: 3rem;
-  border-radius: 0.8rem;
-  background-color: var(--off-white-color);
-  border: 1px solid var(--primary-color);
-  color: var(--primary-color);
-  text-decoration: none;
-}
-.project-section-three small {
+.project-section small {
   margin-left: 0rem;
   color: #bababa;
 }
